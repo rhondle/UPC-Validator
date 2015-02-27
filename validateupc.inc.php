@@ -3,6 +3,8 @@
 UPC and EAN-13 check digit validator
 Apr 24, 2009
 
+This code is licensed for use under the LGPLv3
+
 (C) 2009 Marty Anstey
 https://marty.anstey.ca/
 

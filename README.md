@@ -1,6 +1,6 @@
 # UPC-Validator
 
-###UPC and EAN-13 Check Digit Validator
+### UPC and EAN-13 Check Digit Validator
 Originally released Apr 24, 2009
 
 ### Overview
